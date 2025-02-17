@@ -2,6 +2,7 @@
 
 Este projeto contém uma API desenvolvida com FastAPI para gerenciar um quadro de tarefas baseado na metodologia Kanban. 
 
+(imagem-trabalho.jpeg)
 
 >>Tecnologias:
  Python
