@@ -36,8 +36,3 @@ Sinta-se à vontade para abrir issues e pull requests para melhorias no projeto!
 
 
 
-
-use pip install -r requirements.txt no terminal do arquivo requirements e baixe as ferramentas
-
-endereço do swagger UI:http://127.0.0.1:8000/docs#/ para documentação
-- o mysql tem q estar ligado no xampp
