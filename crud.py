@@ -46,4 +46,3 @@ def deletar_tarefa(db: Session, tarefa_id: int):
     db.delete(tarefa)
     db.commit()
     return tarefa
-
