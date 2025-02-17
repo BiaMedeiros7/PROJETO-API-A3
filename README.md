@@ -2,6 +2,7 @@
 
 Este projeto contém uma API desenvolvida com FastAPI para gerenciar um quadro de tarefas baseado na metodologia Kanban. 
 
+
 ![imagem-trabalho.jpeg](https://github.com/BiaMedeiros7/PROJETO-API-A3/blob/main/imagem-trabalho.jpeg)
 
 >>Tecnologias:
@@ -14,6 +15,7 @@ SQLAlchemy
 Pydantic 
 Uvicorn 
 Pytest 
+
 
 
 # Como executar: 
