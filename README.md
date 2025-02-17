@@ -7,13 +7,23 @@ Este projeto contém uma API desenvolvida com FastAPI para gerenciar um quadro d
 
 >>Tecnologias:
  Python
+
  FastAPI
+
+ 
  SQL Server
 
+
 >>Bibliotecas:
-SQLAlchemy 
+SQLAlchemy
+
+
 Pydantic 
+
+
 Uvicorn 
+
+
 Pytest 
 
 
