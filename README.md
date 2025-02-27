@@ -45,8 +45,6 @@ Pytest
    http://127.0.0.1:8000/docs#/
 
 
-Sinta-se à vontade para abrir issues e pull requests para melhorias no projeto!
-
 
 
 
