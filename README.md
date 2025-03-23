@@ -1,6 +1,6 @@
 # Kanban API - CRUD de Tarefas
 
-Este projeto contém uma API desenvolvida com FastAPI para gerenciar um quadro de tarefas baseado na metodologia Kanban. 
+Este projeto contém uma API desenvolvida com FastAPI para gerenciar um quadro de tarefas baseado na metodologia Kanban. (Seguindo os princípios do REST API)
 
 
 
